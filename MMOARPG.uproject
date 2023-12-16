@@ -1,0 +1,45 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7C5C320C-450A-FE90-0679-E48DF732F6AA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MMOARPG",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "SimpleHTTP",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.aboutcg.org/courseDetails/764/introduce"
+		},
+		{
+			"Name": "SimpleNetChannel",
+			"Enabled": true,
+			"MarketplaceURL": "https://renzhai.net/361.html"
+		},
+		{
+			"Name": "SimpleThread",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f842694afc354d25b1c3cb3a5397bd9d"
+		},
+		{
+			"Name": "MMOARPGCommon",
+			"Enabled": true
+		}
+	]
+}
