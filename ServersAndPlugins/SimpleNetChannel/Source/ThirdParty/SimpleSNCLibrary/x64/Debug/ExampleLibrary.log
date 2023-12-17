@@ -1,0 +1,29 @@
+﻿  ExampleLibrary.cpp
+  simple_io_stream.cpp
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\private\simple_channel\simple_io_stream\simple_io_stream.cpp(20,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\private\simple_channel\simple_io_stream\simple_io_stream.cpp(27,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  simple_channel.cpp
+  simple_connetion.cpp
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\public\simple_c_log\simple_c_log.h(11,2): warning C4091: 'typedef ': ignored on left of 'e_error' when no variable is declared
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\private\simple_channel\simple_net_connetion\simple_connetion.cpp(83,4): warning C4065: switch statement contains 'default' but no 'case' labels
+  simple_connetion_tcp.cpp
+  simple_connetion_udp.cpp
+  simple_net_drive.cpp
+  simple_net_drive_tcp.cpp
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\public\simple_c_log\simple_c_log.h(11,2): warning C4091: 'typedef ': ignored on left of 'e_error' when no variable is declared
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\private\simple_channel\simple_net_drive\simple_net_drive_tcp.cpp(128,132): error C2664: 'BOOL GetQueuedCompletionStatus(HANDLE,LPDWORD,PULONG_PTR,LPOVERLAPPED *,DWORD)': cannot convert argument 3 from 'LPDWORD' to 'PULONG_PTR'
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\private\simple_channel\simple_net_drive\simple_net_drive_tcp.cpp(128,100): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ioapiset.h(43,1): message : see declaration of 'GetQueuedCompletionStatus'
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\private\simple_channel\simple_net_drive\simple_net_drive_tcp.cpp(258,59): warning C4305: 'argument': truncation from 'int' to 'u_short'
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\private\simple_channel\simple_net_drive\simple_net_drive_tcp.cpp(258,54): warning C4309: 'argument': truncation of constant value
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\private\simple_channel\simple_net_drive\simple_net_drive_tcp.cpp(297,59): warning C4305: 'argument': truncation from 'int' to 'u_short'
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\private\simple_channel\simple_net_drive\simple_net_drive_tcp.cpp(297,54): warning C4309: 'argument': truncation of constant value
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\private\simple_channel\simple_net_drive\simple_net_drive_tcp.cpp(333,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\private\simple_channel\simple_net_drive\simple_net_drive_tcp.cpp(344,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\private\simple_channel\simple_net_drive\simple_net_drive_tcp.cpp(371,1): warning C4311: 'type cast': pointer truncation from 'FSimpleConnetion *' to 'DWORD'
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\private\simple_channel\simple_net_drive\simple_net_drive_tcp.cpp(371,1): warning C4302: 'type cast': truncation from 'FSimpleConnetion *' to 'DWORD'
+I:\newue5\Engine\Plugins\RENZHAI\SimpleNetChannel\Source\ThirdParty\SimpleSNCLibrary\simple_library\private\simple_channel\simple_net_drive\simple_net_drive_tcp.cpp(405,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  simple_net_drive_udp.cpp
+  simple_net_type.cpp
+  simple_object.cpp
+  Generating Code...
