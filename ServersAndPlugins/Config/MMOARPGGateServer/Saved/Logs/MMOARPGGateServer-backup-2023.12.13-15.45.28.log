@@ -1,0 +1,245 @@
+﻿Log file open, 12/13/23 23:43:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogStats: Stats thread started at 0.009021
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-A49C69EF4A403EAB068602B0C6AFF119
+         Session CrashGUID >====================================================
+LogInit: Build: ++UE5+Release-5.1-CL-0
+LogInit: Engine Version: 5.1.1-0+++UE5+Release-5.1
+LogInit: Compatible Engine Version: 5.1.0-0+++UE5+Release-5.1
+LogInit: Net CL: 0
+LogInit: OS: Windows 11 (22H2) [10.0.22621.2715] (), CPU: 13th Gen Intel(R) Core(TM) i9-13900KF, GPU: NVIDIA GeForce RTX 4090
+LogInit: Compiled (64-bit): Dec  4 2023 23:46:49
+LogInit: Compiled with Visual C++: 19.29.30152.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.1
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UnrealEngine/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 35
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 80
+LogDevObjectVersion:   FortniteNC (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 10
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 4
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 88
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 41
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: CVar [[r.DumpShaderDebugInfo:2]] deferred - dummy variable created
+LogConfig: CVar [[p.chaos.AllowCreatePhysxBodies:1]] deferred - dummy variable created
+[2023.12.13-15.43.02:646][  0]LogConfig: CVar [[fx.SkipVectorVMBackendOptimizations:1]] deferred - dummy variable created
+[2023.12.13-15.43.02:646][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.12.13-15.43.02:646][  0]LogInit: Computer: DESKTOP-DKK8PSC
+[2023.12.13-15.43.02:646][  0]LogInit: User: Administrator
+[2023.12.13-15.43.02:646][  0]LogInit: CPU Page size=4096, Cores=24
+[2023.12.13-15.43.02:646][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.12.13-15.43.02:648][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2023.12.13-15.43.02:648][  0]LogMemory: Platform Memory Stats for Windows
+[2023.12.13-15.43.02:648][  0]LogMemory: Process Physical Memory: 66.63 MB used, 66.63 MB peak
+[2023.12.13-15.43.02:648][  0]LogMemory: Process Virtual Memory: 106.15 MB used, 106.15 MB peak
+[2023.12.13-15.43.02:648][  0]LogMemory: Physical Memory: 19032.06 MB used,  13579.24 MB free, 32611.30 MB total
+[2023.12.13-15.43.02:648][  0]LogMemory: Virtual Memory: 33108.47 MB used,  34318.83 MB free, 67427.30 MB total
+[2023.12.13-15.43.02:648][  0]LogUObjectArray: 272 objects as part of root set at end of initial load.
+[2023.12.13-15.43.02:648][  0]LogUObjectArray: 0 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2023.12.13-15.43.02:648][  0]LogUObjectAllocator: 36112 out of 0 bytes used by permanent object pool.
+[2023.12.13-15.43.02:648][  0]LogUObjectArray: CloseDisregardForGC: 272/272 objects in disregard for GC pool
+[2023.12.13-15.43.02:648][  0]LogInit: Using OS detected language ().
+[2023.12.13-15.43.02:648][  0]LogInit: Using OS detected locale ().
+[2023.12.13-15.43.02:648][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2023.12.13-15.43.02:649][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2023.12.13-15.43.02:649][  0]LogInit: Using OS detected language ().
+[2023.12.13-15.43.02:649][  0]LogInit: Using OS detected locale ().
+[2023.12.13-15.43.02:649][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2023.12.13-15.43.02:649][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2023.12.13-15.43.02:649][  0]LogMMOARPGGateServer: Display: Hello World
+[2023.12.13-15.43.02:649][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2023.12.13-15.43.02:650][  0]LogSimpleNetChannel: Display: The client sends [Hello] to the server[IP:127.0.0.1 Port:11221].
+[2023.12.13-15.43.02:651][  0]LogSimpleNetChannel: Display: The client sends [Hello] to the server[IP:127.0.0.1 Port:11231].
+[2023.12.13-15.43.02:778][  0]LogSimpleNetChannel: Display: [Login] Accept the server version Verification success, send login request to the server. Server [IP:127.0.0.1 Port:11221]
+[2023.12.13-15.43.02:779][  0]LogSimpleNetChannel: Display: [Login] Accept the server version Verification success, send login request to the server. Server [IP:127.0.0.1 Port:11231]
+[2023.12.13-15.43.02:938][  0]LogSimpleNetChannel: Display: [Join] The client receives the welcon message and starts to send heartbeat to the server and [join] request to the server. Server [IP:127.0.0.1 Port:11221]
+[2023.12.13-15.43.02:938][  0]LogSimpleNetChannel: Display: [Join] The client receives the welcon message and starts to send heartbeat to the server and [join] request to the server. Server [IP:127.0.0.1 Port:11231]
+[2023.12.13-15.43.03:219][  0]LogSimpleNetChannel: Display: [Challenge] Version Verification succeeded. The server sent a challenge protocol. Client[IP:127.0.0.1 Port:59205]
+[2023.12.13-15.43.03:219][  0]LogSimpleNetChannel: Display: [Challenge] Reset new hop time of client.
+[2023.12.13-15.43.03:378][  0]LogSimpleNetChannel: Display: [Welcom] Accept the login request sent by the client and pass the verification. The server sends a welcome message to the client. Client [IP:127.0.0.1 Port:59205]
+[2023.12.13-15.43.03:536][  0]LogSimpleNetChannel: Display: [Join] The current client joined successfully and began to prepare the business logic. Client [IP:127.0.0.1 Port:59205]
+[2023.12.13-15.43.04:571][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.05:536][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.06:590][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.07:599][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.08:608][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.09:620][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.10:633][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.11:644][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.12:655][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.13:666][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.14:676][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.15:685][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.16:728][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.17:739][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.18:766][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.19:770][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.20:767][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.21:780][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.22:807][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.23:829][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.24:847][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.25:865][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.26:858][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.27:907][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.28:920][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.29:940][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.30:950][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.31:957][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.32:966][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.33:975][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.35:032][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.36:060][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.37:091][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.38:121][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.39:124][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.40:122][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.41:153][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.42:171][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.43:208][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.44:210][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.45:214][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.46:211][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.47:238][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.48:240][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.49:273][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.50:271][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.51:279][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.52:283][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.53:297][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.54:299][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.55:330][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.56:336][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.57:362][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.58:368][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.43.59:373][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.00:373][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.01:383][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.02:394][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.03:412][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.04:426][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.05:437][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.06:454][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.07:462][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.08:476][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.09:538][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.10:553][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.11:564][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.12:581][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.13:598][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.14:618][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.15:660][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.16:680][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.17:697][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.18:713][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.19:728][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.20:739][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.21:755][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.22:781][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.23:811][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.24:818][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.25:833][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.26:858][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.27:868][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.28:882][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.29:959][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.30:944][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.31:959][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.32:988][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.33:990][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.34:995][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.36:021][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.37:044][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.38:060][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.39:070][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.40:089][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.41:105][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.42:128][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.43:130][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.44:161][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.45:164][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.46:177][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.47:189][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.48:204][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.49:222][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.50:279][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.51:302][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.52:322][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.53:339][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.54:356][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.55:373][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.56:388][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.57:401][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.58:409][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.44.59:424][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.00:437][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.01:485][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.02:489][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.03:487][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.04:518][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.05:528][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.06:532][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.07:534][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.08:556][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.09:584][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.10:612][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.11:612][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.12:628][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.13:656][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.14:679][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.15:694][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.16:714][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.17:730][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.18:743][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.19:788][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.20:804][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.21:818][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.22:830][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.23:838][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.24:852][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.25:862][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.26:876][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.27:925][  0]LogMMOARPGGateServer: Display: SP_GateStatusRequests
+[2023.12.13-15.45.28:532][  0]LogCore: Engine exit requested (reason: ConsoleCtrl RequestExit)
